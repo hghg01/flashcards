@@ -12,12 +12,12 @@ criaCartao (
 
 criaCartao(
 'Biologia',
-'Vitamina B9 - Avitaminose gera...’,
+'Vitamina B9 - Avitaminose gera...',
 'Anemia megaloblástica')
 
 criaCartao(
 'Biologia',
-'Principais funções do sistema respiratório? (4)’,
+'Principais funções do sistema respiratório? (4)',
 '1. Garantir as trocas gasosas com o meio ambiente; 2. Regular a temperatura corpórea; 3. Regular pH do sangue; 4. Liberação de água.')
 
 criaCartao(
@@ -42,21 +42,21 @@ criaCartao (
 
 criaCartao (
 'História ',
-'Império napoleônico - Período histórico?’,
-'Entre 1804 e 1815.’)
+'Império napoleônico - Período histórico?',
+'Entre 1804 e 1815.')
 
 criaCartao (
-'História’,
-'Era Vargas - Momento histórico?’,
-'Entre 1930 e 1945.’)
+'História',
+'Era Vargas - Momento histórico?',
+'Entre 1930 e 1945.')
 
 criaCartao(
-'Física ‘,
-'Dinâmica - O "equilíbrio" pode ser....’,
-'Estático ou dinâmico.’)
+'Física ',
+'Dinâmica - O "equilíbrio" pode ser...',
+'Estático ou dinâmico.')
 
 criaCartao (
-'Física’,
+'Física',
 'Capacidade térmica - Fórmula?',
 'C = m.c = Onde: C - capacidade térmica; m - massa; c - calor específico.')
 
