@@ -42,20 +42,18 @@ criaCartao (
 
 criaCartao (
 'História ',
-‘Império napoleônico - Período histórico?’,
-‘Entre 1804 e 1815.’)
+'Império napoleônico - Período histórico?’,
+'Entre 1804 e 1815.’)
 
 criaCartao (
-‘História’,
-‘Era Vargas
-Momento histórico?’,
-‘Entre 1930 e 1945.’)
+'História’,
+'Era Vargas - Momento histórico?’,
+'Entre 1930 e 1945.’)
 
 criaCartao(
-‘Física ‘,
-‘Dinâmica
-O "equilíbrio" pode ser....’,
-‘Estático ou dinâmico.’)
+'Física ‘,
+'Dinâmica - O "equilíbrio" pode ser....’,
+'Estático ou dinâmico.’)
 
 criaCartao (
 'Física’,
