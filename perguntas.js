@@ -1,4 +1,3 @@
-Flashcards
 
 criaCartao (
 'Biologia',
