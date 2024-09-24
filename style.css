@@ -11,3 +11,8 @@ body {
     background-color: var(--fundo);
     margin: 0;
 }
+footer{
+    background-color: var (--cartao-verso);
+    color: var (--preto);
+    position: fixed;
+}
