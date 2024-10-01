@@ -57,5 +57,8 @@ footer{
 }
 .cartao-pergunta {
     color: var(--preto);
-    font-weight: 700;
+    font-weight: 500;
+}
+.cartao:hover .cartao-conteudo {
+    transform: rotateY(180deg);
 }
