@@ -18,7 +18,7 @@ cartao.innerHTML = `<div class="cartao-conteudo">
 let respostaVisivel = false;
 function viraCartao (){
     respostaVisivel =!respostaVisivel;
-    cartao.classList.toggle('active', repostaVisivel);
+    cartao.classList.toggle('active', respostaVisivel);
 }
 cartao.addEvenListener ('click', viraCartao);
 container.appendChild(cartao);
