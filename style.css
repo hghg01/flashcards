@@ -30,6 +30,7 @@ footer{
     flex-grow:1;
     flex-basis: calc(33% - 6rem);
     margin: 1rem;
+    height: 20rem;
 }
 .cartao-conteudo {
     background-color: var(--cartao-frente);
@@ -56,7 +57,7 @@ footer{
     font-size: 1.4vw;
 }
 .cartao-resposta {
-    color: var(--cartao-verso);
+    color: var(--destaque);
     font-weight: 700;
 }
 .cartao-pergunta {
