@@ -33,6 +33,7 @@ footer{
 }
 .cartao-conteudo {
     background-color: var(--cartao-frente);
+    color: var(--branco);
     text-align: center;
     height: 100%
     transform-style: preserve-3d;
